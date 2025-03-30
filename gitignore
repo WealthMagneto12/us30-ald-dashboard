@@ -1,0 +1,26 @@
+# Python junk
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebooks cache
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+env/
+venv/
+
+# VS Code settings
+.vscode/
+
+# Streamlit file uploads and output
+*.csv
+*.xlsx
+
+# Deployment archives
+*.zip
